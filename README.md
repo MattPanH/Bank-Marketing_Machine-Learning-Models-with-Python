@@ -8,7 +8,7 @@ To build a Machine Learning Model to predict whether a customer is likely to pur
 <br>
 <h2> Goals </h2>
 1) To identify the top factors influencing customer's decision to purchase.
-<br/>2) To predict whether a customer is likely to purchase the bank's new product
+<br/>2) To predict whether a customer is likely to purchase the bank's new product.
 <br>
 <br>
 <h2> Target Audience </h2>
