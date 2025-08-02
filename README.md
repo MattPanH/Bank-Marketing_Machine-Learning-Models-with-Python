@@ -13,11 +13,11 @@ To build a Machine Learning Model to predict whether a customer is likely to pur
 <br>
 <h2> Target Audience </h2>
 1) The marketing director from the bank looking to identify which customer segments respond best to term deposit offers.<br>
-2) The customer service officer from the bank aiming to tailor the conversation based on customer profile and success rate.<br>
+2) The customer service officer from the bank aiming to tailor the conversation based on customer profile and success rate.
 <br>
 <br>
 <h2> Data Source </h2>
-The data originally comes from General Assembly servers and uploaded on the repository for easy reference.
+The data was provided by General Assembly and uploaded on the repository for easy reference.
 <br>
 <br>
 <h2> Data Limitation </h2><br>
