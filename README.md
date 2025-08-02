@@ -20,7 +20,7 @@ To build a Machine Learning Model to predict whether a customer is likely to pur
 The data was provided by General Assembly and uploaded on the repository for easy reference.
 <br>
 <br>
-<h2> Data Limitation </h2><br>
+<h2> Data Limitation </h2>
 1) Data only includes customers who were contacted and not the entire customer base.<br>
 2) Customers who could not be reached or refused to take the call are excluded, possibly skewing results.
 
